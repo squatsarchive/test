@@ -1,3 +1,3 @@
 ## My first squat !
 
-![backgro"und.png](/media/background.png)
+![background.png](/media/background.png)
