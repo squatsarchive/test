@@ -1,5 +1,4 @@
 ![star.gif](/media/star.gif)
-
-## My first squat !
+nothing
 
 ![background.png](/media/background.png)
